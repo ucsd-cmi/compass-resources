@@ -1,0 +1,4 @@
+tool,ref_db_name,ref_db_params,ref_db_path
+bowtie2,CHM13v2,,s3://genome-idx/bt/chm13v2.0.zip
+bracken,PlusPF8,,s3://genome-idx/kraken/pluspf_08gb_20250402/
+kraken2,PlusPF8,,s3://genome-idx/kraken/pluspf_08gb_20250402/
