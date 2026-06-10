@@ -1,0 +1,6 @@
+sample_id,run_id,fastq_1
+ERR4173119,PRJEB38457,https://raw.githubusercontent.com/ucsd-cmi/compass-resources/refs/heads/main/test_data/ERR4173119.fastq.gz
+ERR4173120,PRJEB38457,https://raw.githubusercontent.com/ucsd-cmi/compass-resources/refs/heads/main/test_data/ERR4173120.fastq.gz
+ERR4173121,PRJEB38457,https://raw.githubusercontent.com/ucsd-cmi/compass-resources/refs/heads/main/test_data/ERR4173121.fastq.gz
+ERR4173122,PRJEB38457,https://raw.githubusercontent.com/ucsd-cmi/compass-resources/refs/heads/main/test_data/ERR4173122.fastq.gz
+ERR4173123,PRJEB38457,https://raw.githubusercontent.com/ucsd-cmi/compass-resources/refs/heads/main/test_data/ERR4173123.fastq.gz
