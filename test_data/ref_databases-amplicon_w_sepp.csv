@@ -1,0 +1,3 @@
+tool,ref_db_name,ref_db_params,ref_db_path
+qiime2,greengenes2-2024.09,,https://data.qiime2.org/classifiers/sklearn-1.4.2/greengenes2/2024.09.backbone.full-length.nb.sklearn-1.4.2.qza
+sepp,greengenes2-2022.10,,https://ftp.microbio.me/greengenes_release/2022.10/2022.10.backbone.sepp-reference.qza
